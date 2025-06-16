@@ -1,5 +1,9 @@
 <h1 align="center">Hello, I'm Ivan!</h1>
 
+<p align="center">
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="300" alt="Meme" />
+</p>
+
 ## 🧠 About Me
 
 🎮 Passionate about **video games**, **software development**, and **information systems & technology** in general.  
@@ -45,7 +49,10 @@ Currently most interested in:
 
 ---
 
-<!-- Optional footer -->
 <p align="center">
   <sub>Thank you for visiting! :] </sub>
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/4f8065f7-d6fd-4692-bae7-5b0c04787e2a" width="200" alt="P3R Main Protagonist" />
 </p>
